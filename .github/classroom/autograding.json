@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Checkstyle",
+      "setup": "",
+      "run": "mvn checkstyle:check",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}

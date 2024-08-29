@@ -2,3 +2,4 @@
 Sanity check and other testing to ensure everything functions properly on the git+github side of things.
 Everything functional currently, simply need to start working in the environment for classwork.
 Added test branch for development and separating from main
+Added specific folder namechange to allow for better organization

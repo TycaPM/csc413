@@ -1,0 +1,4 @@
+08/28/2024 - Generated repo as well as initialized local working environment through chosen IDE.
+Sanity check and other testing to ensure everything functions properly on the git+github side of things.
+Everything functional currently, simply need to start working in the environment for classwork.
+Added test branch for development and separating from main

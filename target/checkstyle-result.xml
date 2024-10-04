@@ -3,6 +3,5 @@
 <file name="C:\Users\Tyca\Documents\CSC413\classwork-4-TycaPM\src\main\java\FunctionalInterfaces.java">
 </file>
 <file name="C:\Users\Tyca\Documents\CSC413\classwork-4-TycaPM\src\main\java\HelloWorld.java">
-<error line="1" column="16" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - java.awt.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 </file>
 </checkstyle>
